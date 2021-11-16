@@ -1,0 +1,3 @@
+[submodule "web-server-js"]
+	path = web-server-js
+	url = https://github.com/Milldrew/web-server-js.git
